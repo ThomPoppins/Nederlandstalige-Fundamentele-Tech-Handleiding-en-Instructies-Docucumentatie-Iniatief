@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "dc71e3d621423cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dca9900f846b20b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8c6985f8a63a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a651b2d10c545ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4ad0596ea120336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1299e4461e9af2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "${file_title}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1304f6820b207c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f95710eee8999c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ce407875810033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9d689de6287410f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8cca0258776951b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efa75ba484c7846c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0852c8068a28540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a056651376696b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba5c0af9eb7c18ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8d4538b59931186",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3b31fcbe86943d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "en/Github/Git Large File Storage/About large files on GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4ad0596ea120336",
+  "lastOpenFiles": [
+    "README.md",
+    "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
+    "en/Github/Git Large File Storage/About large files on GitHub.md",
+    "nl/Github/Git Large File Storage/Over Git Large File Storage.md",
+    "${file_title}.md",
+    "en/Github/Git Large File Storage/Collaboration with Git Large File Storage.md",
+    "en/Github/Git Large File Storage/About Git Large File Storage.md",
+    "TABLE OF CONTENTS TEMPLATE.md",
+    "en/repositories/working-with-files/managing-large-files",
+    "en/repositories/working-with-files",
+    "en/repositories",
+    "nl/Github/Git Large File Storage",
+    "nl/Github",
+    "cli.html.md",
+    "nl",
+    "en",
+    "en/Github/Git Large File Storage",
+    "en/Github",
+    "Welcome.md",
+    "installation.html.md",
+    "nl/archive.org/The Internet Archive Python Library/2. Installatie.md",
+    "archive.org/The Internet Archive Python Library/3. Quickstart.md",
+    "download-collection.py",
+    "nl/archive.org/The Internet Archive Python Library/1. Intro.md",
+    "Ubuntu/Installeer Python3 op Ubuntu 20.04 of Ubuntu 22.04..md",
+    "archive.org/Untitled.md",
+    "Untitled 1.md"
+  ]
+}
