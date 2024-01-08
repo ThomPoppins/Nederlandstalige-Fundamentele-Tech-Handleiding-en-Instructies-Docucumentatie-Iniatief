@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "file": "nl/Github/Git Large File Storage/3..md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "file": "nl/Github/Git Large File Storage/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/Github/Git Large File Storage/About large files on GitHub.md",
+                "file": "nl/Github/Git Large File Storage/3..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/Github/Git Large File Storage/About large files on GitHub.md"
+                "file": "nl/Github/Git Large File Storage/3..md"
               }
             }
           }
@@ -185,13 +185,19 @@
   },
   "active": "c4ad0596ea120336",
   "lastOpenFiles": [
+    "en/Github/Git Large File Storage/3. Installing Git Large File Storage.md",
+    "nl/Github/Git Large File Storage/3..md",
+    "nl/Github/Git Large File Storage/2.5 Beheer van Git LFS-objecten in archieven van je repository.md",
+    "en/Github/Git Large File Storage/2.5 Managing Git LFS objects in archives of your repository.md",
     "README.md",
+    "nl/Github/Git Large File Storage/2. Over Git Large File Storage.md",
+    "nl/Github/Git Large File Storage/Untitled",
+    "nl/Github/Git Large File Storage/1. Over grote bestanden op GitHub.md",
     "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-    "en/Github/Git Large File Storage/About large files on GitHub.md",
-    "nl/Github/Git Large File Storage/Over Git Large File Storage.md",
-    "${file_title}.md",
     "en/Github/Git Large File Storage/Collaboration with Git Large File Storage.md",
-    "en/Github/Git Large File Storage/About Git Large File Storage.md",
+    "en/Github/Git Large File Storage/2. About Git Large File Storage.md",
+    "en/Github/Git Large File Storage/1. About large files on GitHub.md",
+    "${file_title}.md",
     "TABLE OF CONTENTS TEMPLATE.md",
     "en/repositories/working-with-files/managing-large-files",
     "en/repositories/working-with-files",
@@ -207,7 +213,6 @@
     "installation.html.md",
     "nl/archive.org/The Internet Archive Python Library/2. Installatie.md",
     "archive.org/The Internet Archive Python Library/3. Quickstart.md",
-    "download-collection.py",
     "nl/archive.org/The Internet Archive Python Library/1. Intro.md",
     "Ubuntu/Installeer Python3 op Ubuntu 20.04 of Ubuntu 22.04..md",
     "archive.org/Untitled.md",
