@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dca9900f846b20b3",
+        "id": "ea9c3ebefa46f332",
         "type": "tabs",
         "children": [
           {
-            "id": "9f8c6985f8a63a98",
+            "id": "bdc04f6a8a1f26fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a651b2d10c545ac",
+            "id": "75fcc747c91f9f1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ad0596ea120336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1299e4461e9af2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "${file_title}.md",
+                "file": "EXAMPLE BANDCAMP EMBED.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
+                "file": "EXAMPLE BANDCAMP EMBED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
+                "file": "EXAMPLE BANDCAMP EMBED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md"
+                "file": "EXAMPLE BANDCAMP EMBED.md"
               }
             }
           }
@@ -183,39 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4ad0596ea120336",
+  "active": "75fcc747c91f9f1a",
   "lastOpenFiles": [
-    "en/Github/Git Large File Storage/3. Installing Git Large File Storage.md",
+    "Untitled 1.md",
+    "EXAMPLE BANDCAMP EMBED.md",
+    "README.md",
+    "Bandcamp/Embed",
+    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.md",
+    "Untitled",
+    "Bandcamp",
+    "Web3/en/web3.storage CDN/web3.storage as CDN for website.md",
+    "Web3/en/web3.storage CDN/Authorization with UCANs.md",
+    "Web3/nl/web3.storage CDN/UCANs en web3.storage.mp3",
+    "Web3/nl/web3.storage CDN/UCANs en web3.storage.md",
+    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.mp3",
+    "Web3/nl/CDN/Untitled",
+    "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
+    "Soundcloud/nl/Soundcloud oEmbed.md",
+    "Web3/nl/web3.storage CDN",
+    "Web3/nl",
+    "Web3/en",
+    "yt-dlp (youtube-dl)/Install.md",
+    "Web3/en/web3.storage CDN",
+    "ffmpeg(-full)/Install.md",
+    "Soundcloud/en/Soundcloud oEmbed.md",
+    "oEmbed/nl/oEmbed.md",
+    "oEmbed/en/oEmbed.md",
+    "Chocolatey/Install.md",
     "nl/Github/Git Large File Storage/3..md",
+    "en/Github/Git Large File Storage/3. Installing Git Large File Storage.md",
     "nl/Github/Git Large File Storage/2.5 Beheer van Git LFS-objecten in archieven van je repository.md",
     "en/Github/Git Large File Storage/2.5 Managing Git LFS objects in archives of your repository.md",
-    "README.md",
     "nl/Github/Git Large File Storage/2. Over Git Large File Storage.md",
-    "nl/Github/Git Large File Storage/Untitled",
     "nl/Github/Git Large File Storage/1. Over grote bestanden op GitHub.md",
-    "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
     "en/Github/Git Large File Storage/Collaboration with Git Large File Storage.md",
     "en/Github/Git Large File Storage/2. About Git Large File Storage.md",
     "en/Github/Git Large File Storage/1. About large files on GitHub.md",
     "${file_title}.md",
-    "TABLE OF CONTENTS TEMPLATE.md",
-    "en/repositories/working-with-files/managing-large-files",
-    "en/repositories/working-with-files",
-    "en/repositories",
-    "nl/Github/Git Large File Storage",
-    "nl/Github",
-    "cli.html.md",
-    "nl",
-    "en",
-    "en/Github/Git Large File Storage",
-    "en/Github",
-    "Welcome.md",
-    "installation.html.md",
-    "nl/archive.org/The Internet Archive Python Library/2. Installatie.md",
-    "archive.org/The Internet Archive Python Library/3. Quickstart.md",
-    "nl/archive.org/The Internet Archive Python Library/1. Intro.md",
-    "Ubuntu/Installeer Python3 op Ubuntu 20.04 of Ubuntu 22.04..md",
-    "archive.org/Untitled.md",
-    "Untitled 1.md"
+    "TABLE OF CONTENTS TEMPLATE.md"
   ]
 }
