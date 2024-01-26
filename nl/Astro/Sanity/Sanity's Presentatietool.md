@@ -111,7 +111,7 @@ Veel succes bij het integreren en geniet van een geoptimaliseerde contentbewerki
 
 De kern van de functionaliteit van het Presentatiegereedschap ligt in zijn vermogen om een live, interactieve voorvertoning van inhoud te bieden. Deze functie stelt contentmakers in staat om inhoud te zien en te bewerken in een opmaak die sterk lijkt op de uiteindelijke presentatie op de frontend. Een dergelijke realtime feedback is onschatbaar bij het creëren van een efficiëntere en foutloze bewerkingsworkflow.
 
-Verschillende kerntechnologieën vormen de basis van dit gereedschap:
+Verschillende kerntechnologieën vormen [[de basis]] van dit gereedschap:
 
 - **@vercel/stega:** Een technologie die wordt gebruikt voor het coderen van metadata binnen tekstreeksen. Deze codering is noodzakelijk voor het koppelen van frontend-content aan de bijbehorende bewerkbare segmenten in het CMS.
   

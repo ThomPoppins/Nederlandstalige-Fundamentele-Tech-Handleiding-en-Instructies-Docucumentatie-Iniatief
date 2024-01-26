@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdc04f6a8a1f26fe",
+            "id": "23b487e62ce8c218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75fcc747c91f9f1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXAMPLE BANDCAMP EMBED.md",
-                "mode": "source",
+                "file": "Typescript/nl/De basis.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "efa75ba484c7846c",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXAMPLE BANDCAMP EMBED.md",
+                "file": "Typescript/nl/De basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXAMPLE BANDCAMP EMBED.md",
+                "file": "Typescript/nl/De basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXAMPLE BANDCAMP EMBED.md"
+                "file": "Typescript/nl/De basis.md"
               }
             }
           }
@@ -151,51 +138,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "75fcc747c91f9f1a",
+  "active": "23b487e62ce8c218",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "EXAMPLE BANDCAMP EMBED.md",
-    "README.md",
-    "Bandcamp/Embed",
-    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.md",
-    "Untitled",
-    "Bandcamp",
-    "Web3/en/web3.storage CDN/web3.storage as CDN for website.md",
-    "Web3/en/web3.storage CDN/Authorization with UCANs.md",
-    "Web3/nl/web3.storage CDN/UCANs en web3.storage.mp3",
-    "Web3/nl/web3.storage CDN/UCANs en web3.storage.md",
-    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.mp3",
-    "Web3/nl/CDN/Untitled",
-    "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-    "Soundcloud/nl/Soundcloud oEmbed.md",
-    "Web3/nl/web3.storage CDN",
-    "Web3/nl",
-    "Web3/en",
-    "yt-dlp (youtube-dl)/Install.md",
-    "Web3/en/web3.storage CDN",
-    "ffmpeg(-full)/Install.md",
-    "Soundcloud/en/Soundcloud oEmbed.md",
-    "oEmbed/nl/oEmbed.md",
-    "oEmbed/en/oEmbed.md",
+    "nl/Astro/Sanity/Sanity's Presentatietool.md",
+    "Typescript/nl/De basis.md",
+    "Typescript/en/The Basics.md",
+    "Typescript/nl",
+    "nl 1",
+    "Typescript/en",
+    "Astro/RSS feed/nl/2. Maak een `.xml`-feeddocument aan.md",
+    "Typescript",
+    "Astro/Deploy to Github pages/nl/Astro Site naar GitHub Pages implementeren met GitHub Actions.md",
+    "Astro/Deploy to Github pages/en/Deploy an Astro Site to GitHub Pages using GitHub Actions.md",
+    "Astro/Deploy to Github pages/nl",
+    "Astro/Deploy to Github pages/en",
+    "Astro/Deploy to Github pages",
+    "Astro/RSS feed/nl/1. Installeer Astro's RSS package.md",
+    "Webdev roadmap 2024.md",
+    "Astro/RSS feed/en/Create an .xml feed document.md",
+    "Astro/RSS feed/en/1. Install Astro’s RSS package.md",
+    "Bandcamp/EXAMPLE BANDCAMP EMBED.md",
+    "Astro/RSS feed/Untitled.md",
+    "Astro/RSS feed/nl",
+    "Astro/RSS feed/en",
     "Chocolatey/Install.md",
-    "nl/Github/Git Large File Storage/3..md",
-    "en/Github/Git Large File Storage/3. Installing Git Large File Storage.md",
-    "nl/Github/Git Large File Storage/2.5 Beheer van Git LFS-objecten in archieven van je repository.md",
-    "en/Github/Git Large File Storage/2.5 Managing Git LFS objects in archives of your repository.md",
-    "nl/Github/Git Large File Storage/2. Over Git Large File Storage.md",
-    "nl/Github/Git Large File Storage/1. Over grote bestanden op GitHub.md",
-    "en/Github/Git Large File Storage/Collaboration with Git Large File Storage.md",
-    "en/Github/Git Large File Storage/2. About Git Large File Storage.md",
-    "en/Github/Git Large File Storage/1. About large files on GitHub.md",
-    "${file_title}.md",
-    "TABLE OF CONTENTS TEMPLATE.md"
+    "Astro/RSS feed",
+    "2024-01-10.md",
+    "Untitled.canvas",
+    "Astro/Deploy on Vercel/Astro on Vercel.md",
+    "Astro/Deploy on Vercel/NL Astro op Vercel.md",
+    "Vercel/Vercel FREE plan (Hobby plan).md",
+    "Vercel/Runtime Logs Documentation.md",
+    "10 Common Reasons Why Your Internet Download Speed Might be Disappointingly Slow  Read more here.md",
+    "Vercel/Image Optimisation/Image Optimization with Vercel.md",
+    "Vercel/Edge Functions/Vercel Edge Functions Documentation.md",
+    "Vercel/HTTPS SSL.md",
+    "Vercel/Deploy/Deploy to vercel from bash.md",
+    "README.md",
+    "Untitled 1.md",
+    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.md"
   ]
 }
