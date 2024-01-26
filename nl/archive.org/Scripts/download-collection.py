@@ -30,7 +30,7 @@ def download_with_retry(item_id, file_name, download_directory, max_retries=1):
     print(f'Failed to download file {file_name} after {max_retries} retries.')
 
 # Search for all items in the collection
-search = search_items('collection:speedcoreworldwide')
+search = search_items('collection:entity')
 
 # Get the total number of items
 total_items = search.num_found

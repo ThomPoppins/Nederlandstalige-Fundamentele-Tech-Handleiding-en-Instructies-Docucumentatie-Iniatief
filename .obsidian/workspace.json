@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dca9900f846b20b3",
+        "id": "ea9c3ebefa46f332",
         "type": "tabs",
         "children": [
           {
-            "id": "9f8c6985f8a63a98",
+            "id": "23b487e62ce8c218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a651b2d10c545ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4ad0596ea120336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1299e4461e9af2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "${file_title}.md",
-                "mode": "source",
+                "file": "Typescript/nl/De basis.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "efa75ba484c7846c",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
+                "file": "Typescript/nl/De basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md",
+                "file": "Typescript/nl/De basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nl/Github/Git Large File Storage/3..md"
+                "file": "Typescript/nl/De basis.md"
               }
             }
           }
@@ -175,47 +138,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "c4ad0596ea120336",
+  "active": "23b487e62ce8c218",
   "lastOpenFiles": [
-    "en/Github/Git Large File Storage/3. Installing Git Large File Storage.md",
-    "nl/Github/Git Large File Storage/3..md",
-    "nl/Github/Git Large File Storage/2.5 Beheer van Git LFS-objecten in archieven van je repository.md",
-    "en/Github/Git Large File Storage/2.5 Managing Git LFS objects in archives of your repository.md",
+    "pnpm-lock.yaml.2118474625",
+    "node_modules/@changesets",
+    "_tmp_16372_fc49c1440347c9bce32c245a5953028d",
+    "_tmp_11584_3fabd8d858edcb2eb6d842c1b7c55d7e",
+    "package.json",
+    "pnpm-lock.yaml",
+    "pnpm-lock.yaml.2721868791",
+    "node_modules",
+    "_tmp_4044_697bb6024c8d29e6f2c9f5486d2b0278",
+    "nl/Astro/Sanity/Sanity's Presentatietool.md",
+    "Typescript/nl/De basis.md",
+    "Typescript/en/The Basics.md",
+    "Typescript/nl",
+    "nl 1",
+    "Astro/RSS feed/nl/2. Maak een `.xml`-feeddocument aan.md",
+    "Astro/Deploy to Github pages/nl/Astro Site naar GitHub Pages implementeren met GitHub Actions.md",
+    "Astro/Deploy to Github pages/en/Deploy an Astro Site to GitHub Pages using GitHub Actions.md",
+    "Astro/RSS feed/nl/1. Installeer Astro's RSS package.md",
+    "Webdev roadmap 2024.md",
+    "Astro/RSS feed/en/Create an .xml feed document.md",
+    "Astro/RSS feed/en/1. Install Astro’s RSS package.md",
+    "Bandcamp/EXAMPLE BANDCAMP EMBED.md",
+    "Astro/RSS feed/Untitled.md",
+    "Chocolatey/Install.md",
+    "2024-01-10.md",
+    "Untitled.canvas",
+    "Astro/Deploy on Vercel/Astro on Vercel.md",
+    "Astro/Deploy on Vercel/NL Astro op Vercel.md",
+    "Vercel/Vercel FREE plan (Hobby plan).md",
+    "Vercel/Runtime Logs Documentation.md",
+    "10 Common Reasons Why Your Internet Download Speed Might be Disappointingly Slow  Read more here.md",
+    "Vercel/Image Optimisation/Image Optimization with Vercel.md",
+    "Vercel/Edge Functions/Vercel Edge Functions Documentation.md",
+    "Vercel/HTTPS SSL.md",
+    "Vercel/Deploy/Deploy to vercel from bash.md",
     "README.md",
-    "nl/Github/Git Large File Storage/2. Over Git Large File Storage.md",
-    "nl/Github/Git Large File Storage/Untitled",
-    "nl/Github/Git Large File Storage/1. Over grote bestanden op GitHub.md",
-    "nl/Github/Git Large File Storage/Samenwerken met Git Large File Storage.md",
-    "en/Github/Git Large File Storage/Collaboration with Git Large File Storage.md",
-    "en/Github/Git Large File Storage/2. About Git Large File Storage.md",
-    "en/Github/Git Large File Storage/1. About large files on GitHub.md",
-    "${file_title}.md",
-    "TABLE OF CONTENTS TEMPLATE.md",
-    "en/repositories/working-with-files/managing-large-files",
-    "en/repositories/working-with-files",
-    "en/repositories",
-    "nl/Github/Git Large File Storage",
-    "nl/Github",
-    "cli.html.md",
-    "nl",
-    "en",
-    "en/Github/Git Large File Storage",
-    "en/Github",
-    "Welcome.md",
-    "installation.html.md",
-    "nl/archive.org/The Internet Archive Python Library/2. Installatie.md",
-    "archive.org/The Internet Archive Python Library/3. Quickstart.md",
-    "nl/archive.org/The Internet Archive Python Library/1. Intro.md",
-    "Ubuntu/Installeer Python3 op Ubuntu 20.04 of Ubuntu 22.04..md",
-    "archive.org/Untitled.md",
     "Untitled 1.md"
   ]
 }
