@@ -1,5 +1,10 @@
 {
+	"name": "docs",
+	"version": "v0.0.1",
+	"private": false,
+	"license": "MIT",
 	"dependencies": {
+		"@changesets/cli": "^2.27.1",
 		"changeset": "^0.2.6"
 	}
 }
