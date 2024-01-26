@@ -148,6 +148,11 @@
   },
   "active": "23b487e62ce8c218",
   "lastOpenFiles": [
+    "package.json",
+    "pnpm-lock.yaml",
+    "pnpm-lock.yaml.2721868791",
+    "node_modules",
+    "_tmp_4044_697bb6024c8d29e6f2c9f5486d2b0278",
     "nl/Astro/Sanity/Sanity's Presentatietool.md",
     "Typescript/nl/De basis.md",
     "Typescript/en/The Basics.md",
@@ -160,17 +165,13 @@
     "Astro/Deploy to Github pages/en/Deploy an Astro Site to GitHub Pages using GitHub Actions.md",
     "Astro/Deploy to Github pages/nl",
     "Astro/Deploy to Github pages/en",
-    "Astro/Deploy to Github pages",
     "Astro/RSS feed/nl/1. Installeer Astro's RSS package.md",
     "Webdev roadmap 2024.md",
     "Astro/RSS feed/en/Create an .xml feed document.md",
     "Astro/RSS feed/en/1. Install Astro’s RSS package.md",
     "Bandcamp/EXAMPLE BANDCAMP EMBED.md",
     "Astro/RSS feed/Untitled.md",
-    "Astro/RSS feed/nl",
-    "Astro/RSS feed/en",
     "Chocolatey/Install.md",
-    "Astro/RSS feed",
     "2024-01-10.md",
     "Untitled.canvas",
     "Astro/Deploy on Vercel/Astro on Vercel.md",
@@ -183,7 +184,6 @@
     "Vercel/HTTPS SSL.md",
     "Vercel/Deploy/Deploy to vercel from bash.md",
     "README.md",
-    "Untitled 1.md",
-    "Web3/nl/web3.storage CDN/web3.storage as CDN for website 1.md"
+    "Untitled 1.md"
   ]
 }

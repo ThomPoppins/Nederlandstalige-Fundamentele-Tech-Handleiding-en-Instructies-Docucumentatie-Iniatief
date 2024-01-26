@@ -1,0 +1,27 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  changeset:
+    specifier: ^0.2.6
+    version: 0.2.6
+
+packages:
+
+  /changeset@0.2.6:
+    resolution: {integrity: sha512-d21ym9zLPOKMVhIa8ulJo5IV3QR2NNdK6BWuwg48qJA0XSQaMeDjo1UGThcTn7YDmU08j3UpKyFNvb3zplk8mw==, tarball: https://registry.npmjs.org/changeset/-/changeset-0.2.6.tgz}
+    dependencies:
+      udc: 1.0.1
+      underscore: 1.13.6
+    dev: false
+
+  /udc@1.0.1:
+    resolution: {integrity: sha512-jv+D9de1flsum5QkFtBdjyppCQAdz9kTck/0xST5Vx48T9LL2BYnw0Iw77dSKDQ9KZ/PS3qPO1vfXHDpLZlxcQ==, tarball: https://registry.npmjs.org/udc/-/udc-1.0.1.tgz}
+    dev: false
+
+  /underscore@1.13.6:
+    resolution: {integrity: sha512-+A5Sja4HP1M08MaXya7p5LvjuM7K6q/2EaC0+iovj/wOcMsTzMvDFbasi/oSapiwOlt252IqsKqPjCl7huKS0A==, tarball: https://registry.npmjs.org/underscore/-/underscore-1.13.6.tgz}
+    dev: false
