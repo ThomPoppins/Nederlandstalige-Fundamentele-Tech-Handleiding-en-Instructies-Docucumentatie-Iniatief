@@ -15,6 +15,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
                 "mode": "source",
 =======
@@ -25,6 +26,10 @@
                 "file": "Typescript/nl/De basis.md",
                 "mode": "preview",
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+                "file": "Typescript/nl/De basis.md",
+                "mode": "preview",
+>>>>>>> origin/main
                 "source": false
               }
             }
@@ -97,6 +102,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
 =======
                 "file": "Typescript/nl/De basis.md",
@@ -104,6 +110,9 @@
 =======
                 "file": "Typescript/nl/De basis.md",
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+                "file": "Typescript/nl/De basis.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +131,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
 =======
                 "file": "Typescript/nl/De basis.md",
@@ -129,6 +139,9 @@
 =======
                 "file": "Typescript/nl/De basis.md",
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+                "file": "Typescript/nl/De basis.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +166,7 @@
               "state": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md"
 =======
                 "file": "Typescript/nl/De basis.md"
@@ -160,6 +174,9 @@
 =======
                 "file": "Typescript/nl/De basis.md"
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+                "file": "Typescript/nl/De basis.md"
+>>>>>>> origin/main
               }
             }
           }
@@ -184,6 +201,7 @@
   "lastOpenFiles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "nl/10-tips-voor-een-veilig-domeinnaam copy.md",
     "Bash/Scripts/Batch namechange (clean up filenames).md",
     "Bash/Scripts",
@@ -193,6 +211,8 @@
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+>>>>>>> origin/main
     "pnpm-lock.yaml.2118474625",
     "node_modules/@changesets",
     "_tmp_16372_fc49c1440347c9bce32c245a5953028d",
@@ -205,18 +225,24 @@
     "nl/Astro/Sanity/Sanity's Presentatietool.md",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Typescript/en/The Basics.md",
 =======
 =======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+>>>>>>> origin/main
     "Typescript/nl/De basis.md",
     "Typescript/en/The Basics.md",
     "Typescript/nl",
     "nl 1",
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+>>>>>>> origin/main
     "Astro/RSS feed/nl/2. Maak een `.xml`-feeddocument aan.md",
     "Astro/Deploy to Github pages/nl/Astro Site naar GitHub Pages implementeren met GitHub Actions.md",
     "Astro/Deploy to Github pages/en/Deploy an Astro Site to GitHub Pages using GitHub Actions.md",
@@ -239,10 +265,13 @@
     "Vercel/HTTPS SSL.md",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Vercel/Deploy/Deploy to vercel from bash.md"
 =======
 =======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
+>>>>>>> origin/main
     "Vercel/Deploy/Deploy to vercel from bash.md",
     "README.md",
     "Untitled 1.md"
