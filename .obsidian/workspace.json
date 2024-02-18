@@ -14,8 +14,13 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
                 "mode": "source",
+=======
+                "file": "Typescript/nl/De basis.md",
+                "mode": "preview",
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
                 "file": "Typescript/nl/De basis.md",
                 "mode": "preview",
@@ -91,7 +96,11 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
+=======
+                "file": "Typescript/nl/De basis.md",
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
                 "file": "Typescript/nl/De basis.md",
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
@@ -112,7 +121,11 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md",
+=======
+                "file": "Typescript/nl/De basis.md",
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
                 "file": "Typescript/nl/De basis.md",
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
@@ -139,7 +152,11 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Bash/Scripts/Batch namechange (clean up filenames).md"
+=======
+                "file": "Typescript/nl/De basis.md"
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
                 "file": "Typescript/nl/De basis.md"
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
@@ -166,11 +183,14 @@
   "active": "23b487e62ce8c218",
   "lastOpenFiles": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "nl/10-tips-voor-een-veilig-domeinnaam copy.md",
     "Bash/Scripts/Batch namechange (clean up filenames).md",
     "Bash/Scripts",
     "projects/devdocs/import-data-from-page-corresponding-to-url-address.md",
     "Typescript/nl/De basis.md",
+=======
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
 =======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
     "pnpm-lock.yaml.2118474625",
@@ -184,12 +204,18 @@
     "_tmp_4044_697bb6024c8d29e6f2c9f5486d2b0278",
     "nl/Astro/Sanity/Sanity's Presentatietool.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Typescript/en/The Basics.md",
 =======
+=======
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
     "Typescript/nl/De basis.md",
     "Typescript/en/The Basics.md",
     "Typescript/nl",
     "nl 1",
+<<<<<<< HEAD
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
+=======
 >>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
     "Astro/RSS feed/nl/2. Maak een `.xml`-feeddocument aan.md",
     "Astro/Deploy to Github pages/nl/Astro Site naar GitHub Pages implementeren met GitHub Actions.md",
@@ -212,8 +238,11 @@
     "Vercel/Edge Functions/Vercel Edge Functions Documentation.md",
     "Vercel/HTTPS SSL.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Vercel/Deploy/Deploy to vercel from bash.md"
 =======
+=======
+>>>>>>> c959c4359f9b9c53fc9451fcadbf67e8acf8c593
     "Vercel/Deploy/Deploy to vercel from bash.md",
     "README.md",
     "Untitled 1.md"
